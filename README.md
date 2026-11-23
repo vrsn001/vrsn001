@@ -3,10 +3,19 @@
 # ⚡ LAKSHAY (vrsn001)
 ### `>_ Full-Stack Engineer × Growth Architect // System Builder`
 
-[![Role](https://img.shields.io/badge/ROLE-ENGINEERING%20%C3%97%20GROWTH-00f0ff?style=for-the-badge)](https://github.com/vrsn001)
-[![Location](https://img.shields.io/badge/LOCATION-GURGAON%2C%20IN-ff5722?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/vrsn001)
-[![Focus](https://img.shields.io/badge/DISCIPLINE-CODE%20%2B%20DISTRIBUTION-000000?style=for-the-badge&logoColor=white)](https://github.com/vrsn001)
-[![Aesthetic](https://img.shields.io/badge/AESTHETIC-RAZOR_POINT_BRUTALIST-00f0ff?style=for-the-badge)](https://github.com/vrsn001)
+<p align="center">
+  <a href="https://github.com/vrsn001"><img src="https://img.shields.io/badge/ROLE-ENGINEERING%20%C3%97%20GROWTH-00f0ff?style=for-the-badge&labelColor=050508" alt="Role" /></a>
+  <a href="https://github.com/vrsn001"><img src="https://img.shields.io/badge/LOCATION-GURGAON%2C%20IN-ff5722?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=050508" alt="Location" /></a>
+  <a href="https://github.com/vrsn001"><img src="https://img.shields.io/badge/DISCIPLINE-CODE%20%2B%20DISTRIBUTION-000000?style=for-the-badge&labelColor=050508" alt="Discipline" /></a>
+  <a href="https://github.com/vrsn001?tab=followers"><img src="https://img.shields.io/github/followers/vrsn001?color=00f0ff&style=for-the-badge&logo=github&labelColor=050508&label=FOLLOWERS" alt="Followers" /></a>
+</p>
+
+<!-- Billy Butcher Hero GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ehz0NhvHBTxjbxZIo5/giphy.gif" width="460" alt="Billy Butcher // Diabolical" style="max-width: 100%; border: 1px solid rgba(56, 189, 248, 0.4);" />
+  <br/>
+  <sub><i>"Oi. Either build high-performance systems that run circles around the bloat, or don't bother."</i></sub>
+</p>
 
 <br/>
 
@@ -92,10 +101,10 @@
 
 ### 🚀 PRODUCTION DEPLOYMENTS
 
-| Product | Architecture | Description | Live Deployment |
-| :--- | :--- | :--- | :---: |
-| **[VOID//WALLS](https://github.com/vrsn001/void-walls)** | `Next.js 16` · `React 19` · `Fastly CDN` | Curated underground wallpaper vault with keyboard-driven command terminal & 3,245+ assets. | [voidwalls.vercel.app ↗](https://voidwalls.vercel.app) |
-| **[Pixshift](https://github.com/vrsn001/pixshift)** | `Next.js` · `WebAssembly` · `FFmpeg WASM` | Universal in-browser file converter. 100% client-side, zero server uploads, unlimited & private. | [pixyshift.vercel.app ↗](https://pixyshift.vercel.app) |
+| Product | Architecture | Stars | Forks | Live Deployment |
+| :--- | :--- | :---: | :---: | :---: |
+| **[VOID//WALLS](https://github.com/vrsn001/void-walls)** | `Next.js 16` · `React 19` · `Fastly CDN` | [![Stars](https://img.shields.io/github/stars/vrsn001/void-walls?style=flat-square&labelColor=050508&color=00f0ff)](https://github.com/vrsn001/void-walls) | [![Forks](https://img.shields.io/github/forks/vrsn001/void-walls?style=flat-square&labelColor=050508&color=ff5722)](https://github.com/vrsn001/void-walls) | [voidwalls.vercel.app ↗](https://voidwalls.vercel.app) |
+| **[Pixshift](https://github.com/vrsn001/pixshift)** | `Next.js` · `WebAssembly` · `FFmpeg WASM` | [![Stars](https://img.shields.io/github/stars/vrsn001/pixshift?style=flat-square&labelColor=050508&color=00f0ff)](https://github.com/vrsn001/pixshift) | [![Forks](https://img.shields.io/github/forks/vrsn001/pixshift?style=flat-square&labelColor=050508&color=ff5722)](https://github.com/vrsn001/pixshift) | [pixyshift.vercel.app ↗](https://pixyshift.vercel.app) |
 
 ---
 
@@ -105,14 +114,55 @@
 
 | Prototype | Architecture | What I Was Exploring / Building | Codebase |
 | :--- | :--- | :--- | :---: |
-| **[CareerOS](https://github.com/vrsn001/careeros-dashboard)** | `React` · `Tailwind CSS` | **Exploratory Concept**: Tried building a visual node mind-mapping pipeline to turn tedious spreadsheet-based job tracking and career analytics into an interactive visual graph. | [Repository ↗](https://github.com/vrsn001/careeros-dashboard) |
-| **[MapleTools](https://github.com/vrsn001/MapleTools)** | `Vue.js` · `TypeScript` | **Utility Experiment**: Wanted to build a lightweight, distraction-free developer toolbox offering micro-utilities with instant client-side execution and clean UX. | [Repository ↗](https://github.com/vrsn001/MapleTools) |
+| **[CareerOS](https://github.com/vrsn001/careeros-dashboard)** | `React` · `Tailwind CSS` | **Exploratory Concept**: Visual node pipeline turning spreadsheet job tracking into an interactive graph. | [Repository ↗](https://github.com/vrsn001/careeros-dashboard) |
+| **[MapleTools](https://github.com/vrsn001/MapleTools)** | `Vue.js` · `TypeScript` | **Utility Experiment**: Lightweight developer toolbox offering client-side utilities with instant UX. | [Repository ↗](https://github.com/vrsn001/MapleTools) |
+
+---
+
+### 🐍 CONTRIBUTION GRAPH
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vrsn001/vrsn001/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vrsn001/vrsn001/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vrsn001/vrsn001/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+### 🌐 OCTO RING COMMUNITY
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; max-width: 360px;">
+    <tbody>
+      <tr>
+        <td align="center" style="border: none; padding: 0;">
+          <a href="https://octo-ring.com/" target="_blank" rel="noopener noreferrer">
+            <img src="https://octo-ring.com/static/img/widget/top.png" width="340" alt="Octo Ring" style="display: block; margin: 0 auto;" />
+          </a>
+          <div style="display: flex; justify-content: center; gap: 0; width: 340px; margin: 0 auto;">
+            <a href="https://octo-ring.com/p/vrsn001/prev" target="_blank" rel="noopener noreferrer">
+              <img src="https://octo-ring.com/static/img/widget/prev.png" width="113" alt="Previous" style="display: inline-block;" />
+            </a>
+            <a href="https://octo-ring.com/p/vrsn001/random" target="_blank" rel="noopener noreferrer">
+              <img src="https://octo-ring.com/static/img/widget/random.png" width="114" alt="Random" style="display: inline-block;" />
+            </a>
+            <a href="https://octo-ring.com/p/vrsn001/next" target="_blank" rel="noopener noreferrer">
+              <img src="https://octo-ring.com/static/img/widget/next.png" width="113" alt="Next" style="display: inline-block;" />
+            </a>
+          </div>
+          <a href="https://octo-ring.com/" target="_blank" rel="noopener noreferrer">
+            <img src="https://octo-ring.com/static/img/widget/bottom.png" width="340" alt="Octo Ring Profiles" style="display: block; margin: 0 auto;" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
 <div align="center">
   <sub>Engineered by <b>Lakshay (vrsn001)</b>. Zero bloat. High conversion. Ruthless execution.</sub>
 </div>
-
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/vrsn001/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/vrsn001/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/vrsn001/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
